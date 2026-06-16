@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "desc": "CamisaPretaComCaveiraAtras",
+        "imagem": "../public/CamisaPreta.webp",
+        "valor": 59.90
+    },
+    {
+        "id": 2,
+        "desc": "HeavyDuty",
+        "imagem": "../public/HeavyDuty.webp",
+        "valor": 69.90
+    },
+    {
+        "id": 3,
+        "desc": "Ressurrected",
+        "imagem": "../public/ressurreiçãodeJesus.webp",
+        "valor": 99.99
+    }
+]
